@@ -1,0 +1,32 @@
+﻿* {
+    font-family: IRANSans;
+}
+
+.row {
+    direction: ltr;
+}
+
+nav.white > div > ul > li > a {
+    color: #333;
+}
+
+ul.slides > li > .caption {
+    background: rgba(51,51,51,0.5);
+    padding: 20px;
+}
+
+div.Subject > div {
+    cursor: pointer;
+}
+
+.up {
+    color: #00B16A;
+}
+
+.down {
+    color: red;
+}
+
+.subtitle > div > i, .subtitle > div > span {
+    display: inline-block;
+}
